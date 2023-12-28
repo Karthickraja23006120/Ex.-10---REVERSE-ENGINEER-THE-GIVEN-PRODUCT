@@ -31,12 +31,14 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
+![empd ejv](https://github.com/Karthickraja23006120/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139335315/81782de1-bff5-4877-bb82-16ed16206abc)
 
 ### Output:
+![edm qijks](https://github.com/Karthickraja23006120/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/139335315/b589cb3a-d83c-45c3-93aa-c1575df1a6a6)
 
 
-### Name:
-### Register Number:
+### Name: Karthick Raja K
+### Register Number: 212223240066
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
